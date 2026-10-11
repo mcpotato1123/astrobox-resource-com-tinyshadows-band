@@ -44,6 +44,11 @@
       "version": "2.5.2",
       "file_name": "downloads/com.tinyshadows.band.release.2.5.2.rpk",
       "versionCode": 50
+    },
+    "xmb10p": {
+      "version": "2.5.2",
+      "file_name": "downloads/com.tinyshadows.band.release.2.5.2-xmb10p.rpk",
+      "versionCode": 50
     }
   },
   "ext": {}
