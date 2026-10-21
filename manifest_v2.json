@@ -43,12 +43,13 @@
     "xmb9p": {
       "version": "2.5.2",
       "file_name": "downloads/com.tinyshadows.band.release.2.5.2.rpk",
-      "versionCode": 50
-    },
-    "xmb10p": {
-      "version": "2.5.2",
-      "file_name": "downloads/com.tinyshadows.band.release.2.5.2-xmb10p.rpk",
-      "versionCode": 50
+      "versionCode": 51,
+      "updatelogs": [
+        {
+          "version": "2.5.2",
+          "content": "1.更改了图标\n2.不再支持小米手环10Pro"
+        }
+      ]
     }
   },
   "ext": {}
